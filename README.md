@@ -1,14 +1,14 @@
 <br />
 <div align="center">
   <a href="#">
-    <img src="repo-assets/jellyup-high-resolution-logo-black-transparent.png" alt="Logo Here" height="150">
+  <img src="repo-assets/jellyup-logo.png" alt="JellyUp Logo" height="150">
   </a>
 
 <h3 align="center">
     JellyUp
 </h3>
   <p align="center">
-    A collaborative project developed d aimed at fulfilling/replicating the requirements of JellyJelly.com.
+    A collaborative project developed & aimed at fulfilling/replicating the requirements of <a>JellyJelly.com</a>
     <br />
     <div align="center">
         <a href="#">Report Bug</a>
@@ -30,7 +30,6 @@
   - [Frontend](#frontend)
   - [Development Tools](#development-tools)
   - [Additional Tools](#additional-tools)
-- [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Usage](#usage)
@@ -44,36 +43,35 @@ The architecture diagram above illustrates the general structure of the applicat
 ## Tech Stack
 
 ### Backend
-- **Framework**: Flask
-- **Machine Learning Libraries**:
-  - Transformers 
-  - OpenAI 
-  - DeepFace 
-- **Audio and Video Processing**:
-  - Pydub
-  - MoviePy
-  - FFmpeg
-- **Database**: Supabase 
+- **Framework:** `Flask`
+- **Language:** `Python`
+- **Machine Learning:**
+  - `Transformers`
+  - `OpenAI`
+  - `DeepFace`
+- **Media Processing:**
+  - `Pydub`
+  - `MoviePy`
+  - `FFmpeg`
+- **Database:** `Supabase`
 
 ### Frontend
-- **Framework**: React (with Next.js)
-- **Styling**: Tailwind CSS, ShadCN UI
-- **Animation**: Framer Motion, Drei (for 3D animations with React Fiber)
-- **TypeScript**
-- **Node.js**
+- **Framework:** `Next.js`
+- **Styling:** `Tailwind CSS`, `Shadcn/UI`
+- **Animation:** `Framer Motion`, `Drei (for 3D animations with React Fiber)`
+- **Language:** `TypeScript`
+- **Runtime:** `Node.js`
 
 ### Development Tools
-- **Containerization**: Docker
-- **Package Management**: Poetry, npm 
-- **Deployment**: Vercel
+- **Containerization:** `Docker`
+- **Package Management:** `Poetry (Python)`, `npm (JavaScript)`
+- **Deployment:** `Vercel`
 
 ### Additional Tools
-- **Image Search**: Pexels API (for retrieving images based on queries, maybe not applied at the time of your reeading this)
-- **Natural Language Processing**: NLTK (for sentiment analysi, maybe not applied at the time of your reeading this)
+- **Image Search:** `Pexels API (for retrieving images based on queries)`
+- **Natural Language Processing:** `NLTK (for sentiment analysis)`
 
-## Getting Started
-
-This guide provides step-by-step instructions on how to set up the application on your local machine for development and testing purposes.
+**Note**: These tools may not be implemented at the time of reading.
 
 ### Prerequisites
 
